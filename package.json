@@ -1,0 +1,21 @@
+{
+  "name": "reactnativedemo",
+  "version": "1.0.0",
+  "description": "this is a react native demo",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "demo"
+  ],
+  "author": "xiangcheng",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.54.0"
+  }
+}
